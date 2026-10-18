@@ -244,4 +244,4 @@ This repository serves as the official landing page for ThumbsPlus. The software
 **Get the most recent version of ThumbsPlus today!**
 
 ---
-**Last updated:** 2026-10-18 14:21:46 UTC
+**Last updated:** 2026-10-18 17:53:35 UTC
